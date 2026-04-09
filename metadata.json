@@ -1,0 +1,5 @@
+{
+  "name": "Smart Medical Diagnosis Assistant",
+  "description": "An AI-powered medical assistant that uses ML-based diagnosis and RAG for treatment suggestions.",
+  "requestFramePermissions": []
+}

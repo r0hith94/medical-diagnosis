@@ -1,0 +1,30 @@
+[
+  {
+    "disease": "Common Cold",
+    "description": "A viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way.",
+    "causes": "Many types of viruses can cause a common cold. Rhinoviruses are the most common cause.",
+    "treatments": "There's no cure for the common cold. Antibiotics aren't useful against cold viruses. Treatment is directed at relieving signs and symptoms.",
+    "precautions": "Wash your hands. Disinfect your stuff. Use tissues. Don't share."
+  },
+  {
+    "disease": "Influenza (Flu)",
+    "description": "A common viral infection that can be deadly, especially in high-risk groups.",
+    "causes": "Influenza is caused by viruses that infect the nose, throat, and lungs.",
+    "treatments": "Flu is primarily treated with rest and fluid to allow the body to fight the infection on its own. Over-the-counter pain relievers may help with symptoms.",
+    "precautions": "Get a yearly flu vaccine. Wash hands frequently. Avoid close contact with sick people."
+  },
+  {
+    "disease": "Diabetes",
+    "description": "A group of diseases that result in too much sugar in the blood (high blood glucose).",
+    "causes": "The exact cause of most types of diabetes is unknown. In all cases, sugar builds up in the bloodstream.",
+    "treatments": "Treatment includes diet, exercise, medication, and insulin therapy.",
+    "precautions": "Maintain a healthy weight. Eat healthy foods. Get more physical activity."
+  },
+  {
+    "disease": "Hypertension",
+    "description": "A condition in which the force of the blood against the artery walls is too high.",
+    "causes": "High blood pressure usually develops over time. It can happen because of unhealthy lifestyle choices.",
+    "treatments": "Eating a healthier diet with less salt, exercising regularly, and taking medications can help lower blood pressure.",
+    "precautions": "Reduce salt intake. Exercise regularly. Maintain a healthy weight. Limit alcohol."
+  }
+]
